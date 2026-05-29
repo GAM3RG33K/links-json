@@ -8,6 +8,11 @@
   },
   "links": [
     {
+      "label": "Portfolio - Fun mode",
+      "url": "https://fun.harshjoshi.dev/",
+      "icon": "https://fun.harshjoshi.dev/favicon.ico"
+    },
+    {
       "label": "Portfolio",
       "url": "https://harshjoshi.dev/",
       "icon": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/logo.svg"
