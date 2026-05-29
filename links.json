@@ -1,0 +1,43 @@
+{
+  "profile": {
+    "name": "Harshvardhan Joshi",
+    "label": "Mobile App Developer & Full Stack Developer",
+    "headline": "Full Stack Developer | Flutter Expert | Active Open Source Contributor",
+    "avatar": "/images/logo.svg",
+    "verified": true
+  },
+  "links": [
+    {
+      "label": "Portfolio",
+      "url": "https://harshjoshi.dev/",
+      "icon": "portfolio"
+    },
+    {
+      "label": "My Resume",
+      "url": "https://drive.google.com/file/d/1nmEHWGMidynaeSWm0MfHigqrYuOGh2OP/view",
+      "icon": "resume"
+    }
+  ],
+  "socials": [
+    {
+      "network": "GitHub",
+      "url": "https://github.com/GAM3RG33K",
+      "icon": "github"
+    },
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harshvardhan-joshi/",
+      "icon": "linkedin"
+    },
+    {
+      "network": "Twitter",
+      "url": "https://x.com/decent_geek/",
+      "icon": "twitter"
+    },
+    {
+      "network": "Contact",
+      "url": "mailto:contact@harshjoshi.dev",
+      "icon": "email"
+    }
+  ]
+}
