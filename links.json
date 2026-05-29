@@ -3,41 +3,41 @@
     "name": "Harshvardhan Joshi",
     "label": "Mobile App Developer & Full Stack Developer",
     "headline": "Full Stack Developer | Flutter Expert | Active Open Source Contributor",
-    "avatar": "/images/logo.svg",
-    "verified": true
+    "avatar": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/logo.svg",
+    "verified": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/verified.svg"
   },
   "links": [
     {
       "label": "Portfolio",
       "url": "https://harshjoshi.dev/",
-      "icon": "portfolio"
+      "icon": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/logo.svg"
     },
     {
       "label": "My Resume",
       "url": "https://drive.google.com/file/d/1nmEHWGMidynaeSWm0MfHigqrYuOGh2OP/view",
-      "icon": "resume"
+      "icon": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/drive.svg"
     }
   ],
   "socials": [
     {
       "network": "GitHub",
       "url": "https://github.com/GAM3RG33K",
-      "icon": "github"
+      "icon": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/github.svg"
     },
     {
       "network": "LinkedIn",
       "url": "https://www.linkedin.com/in/harshvardhan-joshi/",
-      "icon": "linkedin"
+      "icon": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/linkedin.svg"
     },
     {
       "network": "Twitter",
       "url": "https://x.com/decent_geek/",
-      "icon": "twitter"
+      "icon": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/twitterx.svg"
     },
     {
       "network": "Contact",
       "url": "mailto:contact@harshjoshi.dev",
-      "icon": "email"
+      "icon": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/email.svg"
     }
   ]
 }
