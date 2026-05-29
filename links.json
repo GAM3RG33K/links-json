@@ -7,6 +7,11 @@
     "verified": "https://raw.githubusercontent.com/GAM3RG33K/links-json/main/assets/verified.svg"
   },
   "links": [
+     {
+      "label": "Perfmon - Blistering-fast mobile app profiling CLI tool",
+      "url": "https://perfmon.qzz.io/",
+      "icon": "https://perfmon.qzz.io/assets/logo.svg"
+    },
     {
       "label": "Portfolio - Fun mode",
       "url": "https://fun.harshjoshi.dev/",
