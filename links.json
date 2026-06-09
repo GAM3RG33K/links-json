@@ -8,6 +8,11 @@
   },
   "links": [
      {
+      "label": "Mac Arch Tracker - Audit your Apple system for legacy Intel (x86_64) apps",
+      "url": "https://arch-tracker.harshjoshi.dev/",
+      "icon": "https://arch-tracker.harshjoshi.dev/logo.svg"
+    },
+    {
       "label": "Perfmon - Blistering-fast mobile app profiling CLI tool",
       "url": "https://perfmon.qzz.io/",
       "icon": "https://perfmon.qzz.io/assets/logo.svg"
