@@ -8,6 +8,11 @@
   },
   "links": [
     {
+      "label": "Waitlist Open - gameslist.cc",
+      "url": "https://gameslist.cc/",
+      "icon": "https://gameslist.cc/logo.svg"
+    },
+    {
       "label": "Apply For React-Native Developer(Imagined)",
       "url": "https://forms.gle/dMTvVC5WayqtqoqD9/",
       "icon": "https://www.imagined.studio/_next/image?url=%2Fstatic%2Fimagined-logo.png&w=640&q=75&dpl=dpl_A1tq2JopfqrSA3Zz28ayxy22G5vB"
